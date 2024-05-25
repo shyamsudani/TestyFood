@@ -1,0 +1,9 @@
+.contect{
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.contect-info{
+    display: flex;
+    flex-direction: column;
+}
